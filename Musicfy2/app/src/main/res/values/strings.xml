@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Musicfy</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="youtube">
+        <a href="https://www.youtube.com/channel/UC0gObgODeCoWwk5wYysAidQ">Youtube - Programmity</a>
+    </string>
+    <string name="popup">
+        <a href="https://www.youtube.com/watch?v=1xRC1DMWg9I"> Pop Up Button </a>
+    </string>
+    <string name="login">
+        <a href="https://www.youtube.com/watch?v=lF5m4o_CuNg"> Login Tutorial </a>
+    </string>
+</resources>
